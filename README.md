@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 - My name is Olamide Adebayo.
-- I'm currently learning to be a Cloud Engineer.
+- I'm a recent graduate of Software Engineering
+- Currently learning to be a Cloud Engineer
+- I'm inquistive and curious about the underlying mechanics of deployment and management of software applications.
 <!--
 **kil-sol/kil-sol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
